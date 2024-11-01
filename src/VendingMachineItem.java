@@ -1,5 +1,5 @@
 /*
-Khushbu Khushbu 
+Chan Gaganjeet Singh
  */
 package vendingmachinesimulation.usecase;
 
